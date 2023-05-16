@@ -1,0 +1,20 @@
+1. ¿Qué Experiencia tiene con Laravel y/o PHP?
+R/ Si tengo experiencia en Laravel pero en proyectos pequeños
+
+2. ¿Conoce o tiene experiencia en Livewire?
+R/ No tengo experiencia en Livewire
+
+3. Que Frameworks Front Maneja, Cuéntanos en cual tienes más experiencia y que tiempo.
+R/ Manejo React y tengo un año de experiencia
+
+4. ¿Trabajas Actualmente?
+R/ Si trabajo actualmente
+
+5. ¿Tendría Disponibilidad para vincularse inmediatamente?
+R/ Si tengo disponibilidad para vincularse inmediatamente
+
+6. ¿Dónde Vives?
+R/ Bogota D.C en Engativa
+
+7. ¿Cuál es tu aspiración salarial?
+R/ 2.500.000 COP 
